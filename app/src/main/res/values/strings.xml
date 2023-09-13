@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Puma</string>
+    <string name="tanim">Desciription</string>
+    <string name="fiyat">$ 18.99</string>
+    <string name="pumaKosuAyakkabisi">Puma Running Shoes</string>
+    <string name="boyutSecin">Choose Size</string>
+    <string name="numara_41">41</string>
+    <string name="numara_42">42</string>
+    <string name="numara_43">43</string>
+    <string name="numara_44">44</string>
+    <string name="numara_45">45</string>
+    <string name="cikisYapmak">Check Out</string>
+    <string name="aciklama">Designed for comfort and built for speed,
+        PUMA running shoes for men provide the ultimate in traction and grip.</string>
+</resources>

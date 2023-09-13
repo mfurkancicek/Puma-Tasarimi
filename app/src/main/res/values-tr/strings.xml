@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Puma</string>
+    <string name="tanim">Tür</string>
+    <string name="fiyat">500 ₺</string>
+    <string name="pumaKosuAyakkabisi">Puma Koşu Ayakkabısı</string>
+    <string name="boyutSecin">Beden Seçiniz</string>
+    <string name="numara_41">41</string>
+    <string name="numara_42">42</string>
+    <string name="numara_43">43</string>
+    <string name="numara_44">44</string>
+    <string name="numara_45">45</string>
+    <string name="cikisYapmak">Çıkış Yap</string>
+    <string name="aciklama">Konfor için tasarlandı ve hız için tasarlandı,
+         Erkekler için PUMA koşu ayakkabıları en üst düzeyde çekiş ve kavrama sağlar.</string>
+</resources>
